@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">5 questions about Finland</string>
+    <string name="question1">Question 1</string>
+    <string name="question1a">The capital of Finland is... </string>
+    <string name="turku">Turku</string>
+    <string name="oulu">Oulu</string>
+    <string name="helsinki">Helsinki</string>
+
+    <string name="question2">Question 2</string>
+    <string name="question2a">Who lives in Rovaniemi?</string>
+    <string name="question2b">Wears red</string>
+
+    <string name="question3">Question 3</string>
+    <string name="question3a">What does word "kuusi" mean? (There is two right answers)</string>
+    <string name="spruce">Spruce</string>
+    <string name="mountain">Mountain</string>
+    <string name="lake">Lake</string>
+    <string name="numberSix">Number six</string>
+
+    <string name="question4">Question 4</string>
+    <string name="question4a">Which one of the bands is from Finland?</string>
+    <string name="kent">kent</string>
+    <string name="him">HIM</string>
+    <string name="mew">Mew</string>
+
+    <string name="question5">Question 5</string>
+    <string name="question5a">Flag has two colors. Can you guess the colors?</string>
+    <string name="question5b">Sky and snow</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+</resources>
